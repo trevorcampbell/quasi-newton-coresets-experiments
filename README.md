@@ -4,8 +4,6 @@ This repository provides a python package to construct [Bayesian coresets](http:
 It contains code to run the experiments in [Fast Bayesian Coresets via Subsampling and Quasi-Newton Refinement](https://arxiv.org/abs/2203.09675).
 
 
-## NB: Under construction, code will be added soon.
-
 ### Installation and Dependencies
 
 To install with pip, download the repository and run `pip3 install . --user` in the repository's root folder.
